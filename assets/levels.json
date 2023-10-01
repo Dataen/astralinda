@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Level 1",
+    "basic_enemies": 2,
+    "shield_enemies": 0,
+    "tanky_enemies": 0,
+    "speedy_enemies": 0,
+    "bosses": 0,
+    "bonus_score": 50,
+    "circle_radius": 1000,
+    "bonus_time_seconds": 20
+  },
+  {
+    "name": "Level 2",
+    "basic_enemies": 2,
+    "shield_enemies": 0,
+    "tanky_enemies": 0,
+    "speedy_enemies": 1,
+    "bosses": 0,
+    "bonus_score": 100,
+    "circle_radius": 1250,
+    "bonus_time_seconds": 50
+  },
+  {
+    "name": "Level 3",
+    "basic_enemies": 4,
+    "shield_enemies": 1,
+    "tanky_enemies": 0,
+    "speedy_enemies": 0,
+    "bosses": 0,
+    "bonus_score": 150,
+    "circle_radius": 1250,
+    "bonus_time_seconds": 60
+  },
+  {
+    "name": "Level 4",
+    "basic_enemies": 1,
+    "shield_enemies": 3,
+    "tanky_enemies": 0,
+    "speedy_enemies": 1,
+    "bosses": 0,
+    "bonus_score": 250,
+    "circle_radius": 1000,
+    "bonus_time_seconds": 60
+  },
+  {
+    "name": "Level 5",
+    "basic_enemies": 10,
+    "shield_enemies": 0,
+    "tanky_enemies": 1,
+    "speedy_enemies": 0,
+    "bosses": 0,
+    "bonus_score": 350,
+    "circle_radius": 1750,
+    "bonus_time_seconds": 120
+  },
+  {
+    "name": "Level 6",
+    "basic_enemies": 6,
+    "shield_enemies": 0,
+    "tanky_enemies": 10,
+    "speedy_enemies": 0,
+    "bosses": 0,
+    "bonus_score": 450,
+    "circle_radius": 2250,
+    "bonus_time_seconds": 220
+  },
+  {
+    "name": "Level 7",
+    "basic_enemies": 5,
+    "shield_enemies": 1,
+    "tanky_enemies": 2,
+    "speedy_enemies": 3,
+    "bosses": 0,
+    "bonus_score": 650,
+    "circle_radius": 1750,
+    "bonus_time_seconds": 90
+  },
+  {
+    "name": "Level 8",
+    "basic_enemies": 0,
+    "shield_enemies": 3,
+    "tanky_enemies": 2,
+    "speedy_enemies": 7,
+    "bosses": 0,
+    "bonus_score": 850,
+    "circle_radius": 2250,
+    "bonus_time_seconds": 190
+  },
+  {
+    "name": "Level 9",
+    "basic_enemies": 15,
+    "shield_enemies": 6,
+    "tanky_enemies": 3,
+    "speedy_enemies": 3,
+    "bosses": 0,
+    "bonus_score": 1050,
+    "circle_radius": 2250,
+    "bonus_time_seconds": 230
+  },
+  {
+    "name": "Level 10",
+    "basic_enemies": 2,
+    "shield_enemies": 10,
+    "tanky_enemies": 10,
+    "speedy_enemies": 5,
+    "bosses": 1,
+    "bonus_score": 1600,
+    "circle_radius": 2250,
+    "bonus_time_seconds": 160
+  }
+]
